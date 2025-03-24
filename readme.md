@@ -143,15 +143,6 @@ Congratulations! Your CI/CD pipeline is now fully operational on AWS EKS 🎉
 
 Note: Allow 20-30 minutes for EKS cluster creation. Ensure all required ports (8080, 9000, 3000) are open in Security Groups.
 
-This README includes:
-1. Clear section organization
-2. Badges for visual hierarchy
-3. Code blocks ready for copy-paste
-4. Important notes highlighted
-5. Logical flow from setup to completion
-6. Required port information
-7. Estimated time expectations
 
-Let me know if you need any adjustments!
 
 
